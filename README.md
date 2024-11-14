@@ -41,9 +41,7 @@ leetcode/
 │   └── solution.py
 ```
 
-## Contact
 
-GitHub: [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 LinkedIn: [Pavlo Bondarenko](https://www.linkedin.com/in/mrbondarenko/)
 
